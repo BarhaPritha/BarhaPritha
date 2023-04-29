@@ -190,7 +190,7 @@ marketplace. Ambitious to complete projects with new ideas, and dedicated to mee
 
 <br>
 
-
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barhapritha&label=Profile%20views&color=0e75b6&style=flat" alt="barhapritha" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=barhapritha" alt="barhapritha" /></a> </p>
@@ -203,7 +203,7 @@ marketplace. Ambitious to complete projects with new ideas, and dedicated to mee
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=barhapritha&show_icons=true&locale=en" alt="barhapritha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=barhapritha&" alt="barhapritha" /></p> 
-
+-->
 
 
 <!--
