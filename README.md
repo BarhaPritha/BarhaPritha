@@ -120,7 +120,7 @@ marketplace. Ambitious to complete projects with new ideas, and dedicated to mee
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>  &nbsp;&nbsp;
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>  &nbsp;&nbsp;
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>  &nbsp;&nbsp;
- 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>  &nbsp;&nbsp;
 <br>
 
 ## Projects 📁
@@ -183,12 +183,28 @@ marketplace. Ambitious to complete projects with new ideas, and dedicated to mee
 - 2nd Position in Sudoku Olympiad at the 6th Govt. Science College Scientist Mania 2014
 
 - 1st position in Junior Category Story Writing Competition at the National Space Carnival 2016
-
 <br>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=barhapritha&show_icons=true&locale=en&layout=compact" alt="barhapritha" /></p>
-
+## GitHub Stats 📊 
+![](https://github-readme-stats.vercel.app/api?username=BarhaPritha&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)
 <br>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=BarhaPritha&theme=midnight-purple&hide_border=true)
+<br>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BarhaPritha&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<br>
+
+## GitHub Trophies 🏆
+![](https://github-profile-trophy.vercel.app/?username=BarhaPritha&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+<br>
+
+## Random Dev Quote ✍️ 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br>
+
+<!--
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=barhapritha&show_icons=true&locale=en&layout=compact" alt="barhapritha" /></p> -->
 
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barhapritha&label=Profile%20views&color=0e75b6&style=flat" alt="barhapritha" /> </p>
