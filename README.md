@@ -3,14 +3,7 @@
 
 ## About Me 🙋
 
-<p align="justify">Detail-oriented and punctual Computer Science and Engineering graduate with resourceful analytical and 
-problem-solving skills. Have proficient skills on Python, Java and C# programming. Worked as a Trainee
-Software Engineer at BJIT Group as a full-stack Java EE developer, specialized in Spring framework, and 
-as a Software Engineer at BNX Networks, with primary focus on full-stack web development using
-Django framework. Expert in WordPress web development, and currently is a Level Two seller in Fiverr 
-with 5 stars rating. Can multi-task efficiently, and communicate effectively with international clients. Have 
-experience training young individuals to introduce them to the software development and freelance 
-marketplace. Ambitious to complete projects with new ideas, and dedicated to meet deadlines.</p>
+<p align="justify">Detail-oriented and punctual Computer Science and Engineering graduate with resourceful analytical and problem-solving skills. Currently pursuing a master's degree in the University of Sydney.  Have proficient skills on Python, Java and C# programming. Worked as a Trainee Software Engineer at BJIT Group as a full-stack Java EE developer, specialized in Spring framework, and as a Software Engineer at BNX Networks, with primary focus on full-stack web development using Django framework. Expert in WordPress web development, and currently is a Level Two seller in Fiverr with 5 stars rating. Can multi-task efficiently, and communicate effectively with international clients. Have experience training young individuals to introduce them to the software development and freelance marketplace. Ambitious to complete projects with new ideas, and dedicated to meet deadlines.</p>
 <br>
 
 ## How to reach me 📫 
@@ -26,24 +19,24 @@ marketplace. Ambitious to complete projects with new ideas, and dedicated to mee
 
 ## Work Experience 💼
 
-- **Trainee Software Engineer**, [BJIT Group](https://bjitgroup.com/), *April 2023 - Present*
+- **5 Stars Rated & Level Two Seller**, [Fiverr](https://www.fiverr.com/barha_pritha), *February 2019 - Present*
+     - Front-end Web Developer
+     - WordPress Web Developer
+     - Database Developer (Airtable, Firebase, MS Access) <br>
+     
+- **Trainee Software Engineer**, [BJIT Group](https://bjitgroup.com/), *April 2023 - July 2023*
      - Full-stack Web Developer (Java EE) <br>
      
 - **Software Engineer**, [BNX Networks](www.bnxnetworks.com/), *April 2022 - November 2022*
      - Full-stack Web Developer (Python/Django)
      - Front-end Web Developer (ASP.NET)
      - Android App Developer (Java) <br>
-          
-- **5 Stars Rated & Level Two Seller**, [Fiverr](https://www.fiverr.com/barha_pritha), *February 2019 - Present*
-     - Front-end Web Developer
-     - WordPress Web Developer
-     - Database Developer (Airtable, Firebase, MS Access) <br>
      
 - **Student Tutor**, [Brac University](https://www.bracu.ac.bd/), *October 2021 - January 2022*
      - Helped faculty to check and grade assignments of students enrolled in *Introduction to Robotics* course 
      - Helped students with both their theory and lab work who where enrolled in *Introduction to Robotics* course <br>
      
-- **Co-Founder & Chief Operating Officer**, [Skills For Sure](https://www.facebook.com/skillsforsure.bd), *May 2020 - Present*
+- **Co-Founder & Chief Operating Officer**, [Skills For Sure](https://www.facebook.com/skillsforsure.bd), *May 2020 - July 2023*
      - Academic Mentor of Front-end Web Development and Freelancing Course
      - Academic Mentor of Python Programming for Beginners Course 
      - Academic Mentor of Full-stack Web Development using Django framework Course <br>
@@ -51,8 +44,13 @@ marketplace. Ambitious to complete projects with new ideas, and dedicated to mee
 
 ## Education 🎓
 
+- [The University of Sydney](https://www.sydney.edu.au/), **Master of Information Technology and Master of Information Technology Management**, *June 2025*
+     - **Grade:** Highest Distinction
+     - Specialization in Software Engineering <br>
+     
 - [Brac University](https://www.bracu.ac.bd/), **B.Sc. in Computer Science and Engineering**, *January 2022*
-     - **CGPA:** 3.82 out of 4.00 (Highest Distinction) *Received merit-based scholarships* <br>
+     - **CGPA:** 3.82 out of 4.00 (Highest Distinction)
+     - Received merit-based scholarships <br>
 
 - [HURDCO International School](https://hurdcointschool.com/), **Cambridge A Level**, *June 2017*
      - **Subjects:** Mathematics, Physics, Chemistry, Applied ICT <br>
