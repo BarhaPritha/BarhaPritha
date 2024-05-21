@@ -19,6 +19,9 @@
 
 ## Work Experience 💼
 
+- **Engineering Peer Mentor**, [The University of Sydney](https://www.sydney.edu.au/), *February 2024 - Present*
+     - Advisor of 1st year Engineering Postgraduate students <br>
+
 - **5 Stars Rated & Level Two Seller**, [Fiverr](https://www.fiverr.com/barha_pritha), *February 2019 - Present*
      - Front-end Web Developer
      - WordPress Web Developer
