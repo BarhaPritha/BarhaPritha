@@ -132,7 +132,7 @@
 
 - **Android Texting App** (*Java, XML*)
 
-- **Library Management Systeme** (*Java and MySQL*)
+- **Library Management System** (*Java and MySQL*)
 
 - **Real Time Fire Detection System** (*Arduino, Proteus and LabVIEW*)
 
