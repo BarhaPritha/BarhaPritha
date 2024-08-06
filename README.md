@@ -19,14 +19,12 @@
 
 ## Work Experience 💼
 
-- **Engineering Peer Mentor**, [The University of Sydney](https://www.sydney.edu.au/), *February 2024 - Present*
-     - Advisor of 1st year Engineering Postgraduate students <br>
-
-- **5 Stars Rated & Level Two Seller**, [Fiverr](https://www.fiverr.com/barha_pritha), *February 2019 - Present*
-     - Front-end Web Developer
-     - WordPress Web Developer
-     - Database Developer (Airtable, Firebase, MS Access) <br>
+- **Data Engineer (Intern)**, [NSW Data Analytics Centre](https://www.nsw.gov.au/), *August 2024 - Present*
+     - 6 months Internship program with Data Engineering team <br>
      
+- **Engineering Peer Mentor**, [The University of Sydney](https://www.sydney.edu.au/), *February 2024 - Present*
+     - Advisor of 1st year Engineering Postgraduate students   <br>
+
 - **Trainee Software Engineer**, [BJIT Group](https://bjitgroup.com/), *April 2023 - July 2023*
      - Full-stack Web Developer (Java EE) <br>
      
@@ -43,6 +41,11 @@
      - Academic Mentor of Front-end Web Development and Freelancing Course
      - Academic Mentor of Python Programming for Beginners Course 
      - Academic Mentor of Full-stack Web Development using Django framework Course <br>
+
+- **5 Stars Rated & Level Two Seller**, [Fiverr](https://www.fiverr.com/barha_pritha), *February 2019 - Present*
+     - Front-end Web Developer
+     - WordPress Web Developer
+     - Database Developer (Airtable, Firebase, MS Access) <br>
 <br>
 
 ## Education 🎓
