@@ -19,8 +19,9 @@
 
 ## Work Experience 💼
 
-- **Data Engineer (Intern)**, [NSW Data Analytics Centre](https://www.nsw.gov.au/), *August 2024 - February 2025*
-     - 6 months Internship program with Data Engineering team <br>
+- **Data Engineer (Intern)**, [NSW Government Data Analytics Centre](https://www.nsw.gov.au/), *August 2024 - February 2025*
+     - 6 months Internship / Scholarship program at the DCS DAC (NSW Government)
+	- Worked with Azure Data Lake Storage, Azure Databricks, Snowflake, Talend, and Power Apps <br>
      
 - **Engineering Peer Mentor**, [The University of Sydney](https://www.sydney.edu.au/), *February 2024 - August 2024*
      - Advisor of 1st year Engineering Postgraduate students   <br>
