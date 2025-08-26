@@ -3,7 +3,7 @@
 
 ## About Me 🙋
 
-<p align="justify">Detail-oriented and punctual Computer Science and Engineering graduate with resourceful analytical and problem-solving skills. Currently pursuing a master's degree in the University of Sydney.  Have proficient skills on Python, Java and C# programming. Worked as a Trainee Software Engineer at BJIT Group as a full-stack Java EE developer, specialized in Spring framework, and as a Software Engineer at BNX Networks, with primary focus on full-stack web development using Django framework. Expert in WordPress web development, and currently is a Level Two seller in Fiverr with 5 stars rating. Can multi-task efficiently, and communicate effectively with international clients. Have experience training young individuals to introduce them to the software development and freelance marketplace. Ambitious to complete projects with new ideas, and dedicated to meet deadlines.</p>
+<p align="justify">Detail-oriented Software Engineer and Data Engineer with experience at the NSW Government Data Analytics Centre. Proficient in Python, Java, and C# with strong expertise in data engineering tools (Talend, Snowflake, Tableau, AWS) and frameworks (Spring Boot, Django). Skilled in developing ETL pipelines, cloud solutions, and data-driven applications. Strong communicator with experience collaborating across international teams. Graduated with a double master’s degree in IT and IT Management from the University of Sydney (2025). Dedicated to delivering innovative solutions that meet business goals on time. </p>
 <br>
 
 ## How to reach me 📫 
@@ -19,10 +19,10 @@
 
 ## Work Experience 💼
 
-- **Data Engineer (Intern)**, [NSW Data Analytics Centre](https://www.nsw.gov.au/), *August 2024 - Present*
+- **Data Engineer (Intern)**, [NSW Data Analytics Centre](https://www.nsw.gov.au/), *August 2024 - February 2025*
      - 6 months Internship program with Data Engineering team <br>
      
-- **Engineering Peer Mentor**, [The University of Sydney](https://www.sydney.edu.au/), *February 2024 - Present*
+- **Engineering Peer Mentor**, [The University of Sydney](https://www.sydney.edu.au/), *February 2024 - August 2024*
      - Advisor of 1st year Engineering Postgraduate students   <br>
 
 - **Trainee Software Engineer**, [BJIT Group](https://bjitgroup.com/), *April 2023 - July 2023*
@@ -42,7 +42,7 @@
      - Academic Mentor of Python Programming for Beginners Course 
      - Academic Mentor of Full-stack Web Development using Django framework Course <br>
 
-- **5 Stars Rated & Level Two Seller**, [Fiverr](https://www.fiverr.com/barha_pritha), *February 2019 - Present*
+- **5 Stars Rated & Level Two Seller**, [Fiverr](https://www.fiverr.com/barha_pritha), *February 2019 - February 2024*
      - Front-end Web Developer
      - WordPress Web Developer
      - Database Developer (Airtable, Firebase, MS Access) <br>
@@ -51,8 +51,8 @@
 ## Education 🎓
 
 - [The University of Sydney](https://www.sydney.edu.au/), **Master of Information Technology and Master of Information Technology Management**, *June 2025*
-     - **Grade:** Highest Distinction
-     - Specialization in Software Engineering <br>
+     - **Grade:** Distinction
+     - Specialisation in Software Engineering <br>
      
 - [Brac University](https://www.bracu.ac.bd/), **B.Sc. in Computer Science and Engineering**, *January 2022*
      - **CGPA:** 3.82 out of 4.00 (Highest Distinction)
